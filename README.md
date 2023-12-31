@@ -1,4 +1,4 @@
-# Shaurya Nanda  - # Data-Analytics-Portfolio
+# Shaurya Nanda  - Data-Analytics-Portfolio
 
 # About
 Hi, I am Shaurya. I am an aspiring data analyst on a journey to explore stupendous world of data and analytics.
