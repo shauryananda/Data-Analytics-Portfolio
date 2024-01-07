@@ -6,9 +6,9 @@ Hi, I am Shaurya. I am an aspiring data analyst on a journey to explore stupendo
 
 📊 Data Enthusiast: Passionate about turning raw data into meaningful insights, I thrive on the thrill of discovering patterns, trends, and stories hidden within the numbers.
 
+
 ## Table of Contents
 
-## About
 
 
 ## Education
