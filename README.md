@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 
-- [About] (https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#about)
+- [About](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#about)
 
 - [Portfolio Projects]
 
