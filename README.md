@@ -18,7 +18,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Portfolio Projects](https://github.com/shauryananda/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
 
-- Data Exploration and Visualization - Python Libraries
+   - Data Exploration and Visualization - Python Libraries
+
+
+
+- [Education](https://github.com/shauryananda/Data-Analysis-Portfolio/blob/main/README.md#education)
+- [Certifications]
 
 
 
@@ -27,6 +32,9 @@ This is a repository to showcase skills, share projects and track my progress in
 Goa Institute of Management: Master of Business Administration - MBA, Big Data Analytics, 2019 - 2021
 
 Guru Gobind Singh Indraprastha University: Bachelor's degree, Information Technology, 2012 - 2016
+
+
+## Certifications
 
 
 ## Contacts
