@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [About](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#about)
 
-- [Portfolio Projects]
+- [Portfolio Projects](https://github.com/shauryananda/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
 
 - Data Exploration and Visualization - Python Libraries
 
@@ -31,6 +31,6 @@ Guru Gobind Singh Indraprastha University: Bachelor's degree, Information Techno
 
 ## Contacts
 
-LinkedIn: https://www.linkedin.com/in/shaurya-nanda/
+LinkedIn: [Shaurya Nanda](https://www.linkedin.com/in/shaurya-nanda/)
 
 Email: shauryananda10@gmail.com
