@@ -7,7 +7,18 @@ Hi, I am Shaurya. I am an aspiring data analyst on a journey to explore stupendo
 📊 Data Enthusiast: Passionate about turning raw data into meaningful insights, I thrive on the thrill of discovering patterns, trends, and stories hidden within the numbers.
 
 
+Resume: in [pdf]
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+
 ## Table of Contents
+
+- [About]
+
+- [Portfolio Projects]
+
+- Data Exploration and Visualization - Python Libraries
 
 
 
