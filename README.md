@@ -23,7 +23,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 - [Education](https://github.com/shauryananda/Data-Analysis-Portfolio/blob/main/README.md#education)
+
 - [Certifications]
+  
+- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contact)
 
 
 
@@ -37,7 +40,7 @@ Guru Gobind Singh Indraprastha University: Bachelor's degree, Information Techno
 ## Certifications
 
 
-## Contacts
+## Contact
 
 LinkedIn: [Shaurya Nanda](https://www.linkedin.com/in/shaurya-nanda/)
 
