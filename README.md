@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Certifications]
   
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contact)
+- [Contact](https://github.com/shauryananda/Data-Analysis-Portfolio/blob/main/README.md#contact)
 
 
 
