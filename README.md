@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/shauryananda/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
 
    - Data Exploration and Visualization - Python Libraries
-     [Content Generation Analysis on a Video Streaming Platform]
+     - [Content Generation Analysis on a Video Streaming Platform](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/Content%20Generation%20Analysis%20on%20a%20Video%20Streaming%20Platform.ipynb)
 
 
 
