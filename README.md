@@ -39,7 +39,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Business Problem:** Analyze the data and generate insights that could help the streaming platfrom decide which type of shows/movies to produce and how they can grow the business in different countries
 
-**Dataset:** (https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/netflix.csv)
+**Dataset:** [netflix.csv](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/netflix.csv)
 
 **Skills:** Data Cleaning, Data Analysis with Numpy and Pandas, Data Visualization.
 
