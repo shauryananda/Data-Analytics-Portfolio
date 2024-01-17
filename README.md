@@ -19,6 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/shauryananda/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
 
    - Data Exploration and Visualization - Python Libraries
+     [Content Generation Analysis on a Video Streaming Platform]
 
 
 
@@ -28,6 +29,18 @@ This is a repository to showcase skills, share projects and track my progress in
   
 - [Contact](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#contact)
 
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Content Generation Analysis on a Video Streaming Platform
+**Code:** [`Content Generation Analysis on a Video Streaming Platform`]
+(https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/Content%20Generation%20Analysis%20on%20a%20Video%20Streaming%20Platform.ipynb)
+
+**Introduction:**  One of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. The dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
+
+**Business Problem:** Analyze the data and generate insights that could help the streaming platfrom decide which type of shows/movies to produce and how they can grow the business in different countries
+
+**Skills:** Data Cleaning, Data Analysis with Numpy and Pandas, Data Visualization, .
 
 
 ## Education
