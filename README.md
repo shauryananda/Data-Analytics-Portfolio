@@ -46,7 +46,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Data Cleaning, Data Analysis with Numpy and Pandas, Data Visualization.
 
 ### Housing Market Analysis
-**Code:** ['Housing Market Analysis'](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/Housing%20Market%20Analysis.ipynb)
+**Code:** [Housing Market Analysis](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/Housing%20Market%20Analysis.ipynb)
 
 **Introduction:** Exploratory Data Analysis on the Housing Market of London in the years between 1995 and 2020.
 
