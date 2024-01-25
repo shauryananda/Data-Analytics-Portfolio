@@ -52,7 +52,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Business Problem:** Perform exploratory data analysis with the goal of discovering new information and answering the following questions:
 
-How has the housing market (average house price and number of houses sold) changed over the years in different boroughs of London? How does it compare to England?
+How has the housing market (average house price and number of houses sold) changed over the years in different boroughs of London? 
+How does it compare to England?
 What factors affected it the most?
 
 **Datasets:** [housing_in_london_monthly_variables](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/housing_in_london_monthly_variables.csv)
