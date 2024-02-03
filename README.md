@@ -32,7 +32,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Education](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#education)
 
-- [Certifications]
+- [Certifications](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#certifications)
   
 - [Contact](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#contact)
 
@@ -95,6 +95,8 @@ Guru Gobind Singh Indraprastha University: Bachelor's degree, Information Techno
 
 
 ## Certifications
+
+[IBM Data Analyst Professional - Coursera (January 2024)](https://www.coursera.org/account/accomplishments/professional-cert/E5T42S45A7HP)
 
 
 ## Contact
