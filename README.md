@@ -97,6 +97,7 @@ Guru Gobind Singh Indraprastha University: Bachelor's degree, Information Techno
 ## Certifications
 
 [Lean Six Sigma Green Belt Certification - KPMG (November 2020)](https://media.licdn.com/dms/document/media/C561FAQGDSFwjn6m7eA/feedshare-document-pdf-analyzed/0/1621064447068?e=1710374400&v=beta&t=SFklb4EkTg0KtYtpYasGFfViotEBdmTGdaoq1leqm_U)
+
 [IBM Data Analyst Professional - Coursera (January 2024)](https://www.coursera.org/account/accomplishments/professional-cert/E5T42S45A7HP)
 
 
