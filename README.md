@@ -50,7 +50,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Dataset:** [netflix.csv](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/netflix.csv)
 
-**Skills:** Data Cleaning, Data Analysis with Numpy and Pandas, Data Visualization.
+**Skills:** Data Cleaning, Data Analysis with Numpy and Pandas, Data Visualization with Matplotlib and Seaborn
 
 ### Housing Market Analysis
 **Code:** [Housing Market Analysis](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/Housing%20Market%20Analysis.ipynb)
