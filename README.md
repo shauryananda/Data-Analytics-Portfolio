@@ -28,6 +28,7 @@ This is a repository to showcase skills, share projects and track my progress in
    - SQL
      
       - [Operational Analysis for a Retailer in the United States](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Target%20-%20Business%20Case.pdf)
+      - [Instagram User Analytics](
 
 
 - [Education](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#education)
@@ -35,6 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Certifications](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#certifications)
   
 - [Contact](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#contact)
+
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -91,7 +93,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 
 **Introduction**:
 
-**Business Problem:** 
+**Business Problem:** [Instagram User Analytics]
 
 You're a data analyst working with the product team at Instagram. Your role involves analyzing user interactions and engagement with the Instagram app to provide valuable insights that can help the business grow.
 
