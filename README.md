@@ -99,37 +99,37 @@ User analysis involves tracking how users engage with a digital product, such as
 
 In this project, I have used SQL and MySQL Workbench as your tool to analyze Instagram user data and answer questions posed by the management team. Your insights will help the product manager and the rest of the team make informed decisions about the future direction of the Instagram app.
 
-SQL Tasks :
+**SQL Tasks** :
 
-A) Marketing Analysis:
+**A) Marketing Analysis:**
 
-Loyal User Reward: The marketing team wants to reward the most loyal users, i.e., those who have been using the platform for the longest time.
+**Loyal User Reward:** The marketing team wants to reward the most loyal users, i.e., those who have been using the platform for the longest time.
 
 Task: Identify the five oldest users on Instagram from the provided database.
 
-Inactive User Engagement: The team wants to encourage inactive users to start posting by sending them promotional emails.
+**Inactive User Engagement:** The team wants to encourage inactive users to start posting by sending them promotional emails.
 
 Task: Identify users who have never posted a single photo on Instagram.
 
-Contest Winner Declaration: The team has organized a contest where the user with the most likes on a single photo wins.
+**Contest Winner Declaration:** The team has organized a contest where the user with the most likes on a single photo wins.
 
 Task: Determine the winner of the contest and provide their details to the team.
 
-Hashtag Research: A partner brand wants to know the most popular hashtags to use in their posts to reach the most people.
+**Hashtag Research:** A partner brand wants to know the most popular hashtags to use in their posts to reach the most people.
 
 Task: Identify and suggest the top five most commonly used hashtags on the platform.
 
-Ad Campaign Launch: The team wants to know the best day of the week to launch ads.
+**Ad Campaign Launch:** The team wants to know the best day of the week to launch ads.
 
 Task: Determine the day of the week when most users register on Instagram. Provide insights on when to schedule an ad campaign.
 
-B) Investor Metrics:
+**B) Investor Metrics:**
 
-User Engagement: Investors want to know if users are still active and posting on Instagram or if they are making fewer posts.
+**User Engagement:** Investors want to know if users are still active and posting on Instagram or if they are making fewer posts.
 
 Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
 
-Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
+**Bots & Fake Accounts:** Investors want to know if the platform is crowded with fake and dummy accounts.
 
 Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
 
