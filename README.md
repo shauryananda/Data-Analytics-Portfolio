@@ -101,7 +101,7 @@ User analysis involves tracking how users engage with a digital product, such as
 
 In this project, I have used SQL and MySQL Workbench as your tool to analyze Instagram user data and answer questions posed by the management team. Your insights will help the product manager and the rest of the team make informed decisions about the future direction of the Instagram app.
 
-**SQL Queries:** [Instagram User Analytics]
+**SQL Queries:** [Instagram User Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Instagram_User_Analytics_Queries.sql)
 
 **SQL Tasks** :
 
