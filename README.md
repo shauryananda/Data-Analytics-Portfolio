@@ -156,7 +156,9 @@ One of the key aspects of Operational Analytics is investigating metric spikes. 
 
 In this project, my goal is to use advanced SQL skills to analyze the data and provide valuable insights that can help improve the company's operations and understand sudden changes in key metrics.
 
-**SQL Queries:** [Operations Analytics and Investigating Metric Spikes]
+**SQL Queries:** [Operations Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Operation_Analytics_Queries.sql)
+
+                 [Investigating Metric Spikes]
 
 ## Education
 
