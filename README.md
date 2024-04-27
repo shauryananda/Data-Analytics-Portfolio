@@ -148,7 +148,7 @@ Task: Identify users (potential bots) who have liked every single photo on the s
 
 **Introduction**:
 
-**Business Problem:**
+**Business Problem:** [Operations & Metric Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Operations%20And%20Metric%20Analytics.pdf)
 
 Operational Analytics is a crucial process that involves analyzing a company's end-to-end operations. This analysis helps identify areas for improvement within the company. As a Data Analyst, you'll work closely with various teams, such as operations, support, and marketing, helping them derive valuable insights from the data they collect.
 
