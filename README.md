@@ -164,6 +164,31 @@ In this project, my goal is to use advanced SQL skills to analyze the data and p
 
 **Case Study 1: Job Data Analysis**
 
+**Jobs Reviewed Over Time:**
+
+   Objective: Calculate the number of jobs reviewed per hour for each day in November 2020.
+   
+   Task: Write an SQL query to calculate the number of jobs reviewed per hour for each day in November 2020.
+
+**Throughput Analysis:**
+
+   Objective: Calculate the 7-day rolling average of throughput (number of events per second).
+   
+   Task: Write an SQL query to calculate the 7-day rolling average of throughput. Additionally, explain whether you prefer using the daily metric or the 7-day rolling average for 
+   throughput, and why.
+   
+**Language Share Analysis:**
+
+   Objective: Calculate the percentage share of each language in the last 30 days.
+   
+   Task: Write an SQL query to calculate the percentage share of each language over the last 30 days.
+
+**Duplicate Rows Detection:**
+
+   Objective: Identify duplicate rows in the data.
+   
+   Task: Write an SQL query to display duplicate rows from the job_data table.
+
 ## Education
 
 Goa Institute of Management: Master of Business Administration - MBA, Big Data Analytics, 2019 - 2021
