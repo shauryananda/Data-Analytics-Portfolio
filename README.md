@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
    - SQL
      
-      - [Operational Analysis for a Retailer in the United States](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Target%20-%20Business%20Case.pdf)
+      - [Retailer Sales and Operational Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Target%20-%20Business%20Case.pdf)
         
       - [Instagram User Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Instagram%20User%20Analytics.pdf)
 
