@@ -158,9 +158,7 @@ In this project, my goal is to use advanced SQL skills to analyze the data and p
 
 **SQL Queries:** 
 
-[Operations Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Operation_Analytics_Queries.sql)
-
-[Investigating Metric Spikes](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Investigating_Metric_Spikes_Queries.sql)
+[Operations Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Operation_Analytics_Queries.sql) [Investigating Metric Spikes](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Investigating_Metric_Spikes_Queries.sql)
 
 ## Education
 
