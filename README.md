@@ -221,7 +221,7 @@ In this project, my goal is to use advanced SQL skills to analyze the data and p
 
    **Task:** Write an SQL query to calculate the email engagement metrics.
 
-**Dataset:** https://drive.google.com/drive/folders/1i4qdRyLXbnxjHS5bv0xOV0ugn_gyqY-5
+**Dataset:** https://drive.google.com/drive/folders/1i4qdRyLXbnxjHS5bv0xOV0ugn_gyqY-5  https://drive.google.com/drive/folders/1ov1cWbFAbXjPYsX7yRtgAieedw-Swd7q
 
 **Skill:** SQL
 
