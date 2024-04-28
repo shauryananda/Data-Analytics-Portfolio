@@ -221,6 +221,11 @@ In this project, my goal is to use advanced SQL skills to analyze the data and p
 
    **Task:** Write an SQL query to calculate the email engagement metrics.
 
+**Dataset:** 
+
+**Skill:** SQL
+
+
 ## Education
 
 Goa Institute of Management: Master of Business Administration - MBA, Big Data Analytics, 2019 - 2021
