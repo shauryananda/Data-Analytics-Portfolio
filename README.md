@@ -262,7 +262,9 @@ You're a data analyst at a multinational company like Google. Your task is to an
 
 **Task:** Use a chart or graph to represent the different position tiers within the company. This will help you understand the distribution of positions across different tiers.
 
+**Dataset:** https://github.com/shauryananda/Portfolio-Projects/blob/main/Excel/Hiring%20Process%20Analytics.pdf
 
+**Skill:** MS Excel
 
 
 ## Education
