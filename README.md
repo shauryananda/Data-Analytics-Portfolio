@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
    - Excel
 
-        -[Hiring Process Analytics]
+        - [Hiring Process Analytics]
 
 
 - [Education](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#education)
