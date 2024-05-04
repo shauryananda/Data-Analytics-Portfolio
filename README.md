@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
    - Exploratory Data Analysis and Visualization - Python Libraries
      
-     - [Content Analysis on a Video Streaming Platform](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/Content%20Analysis%20on%20a%20Video%20Streaming%20Platform.ipynb)
+     - [Content Analysis on a Video Streaming Platform](https://github.com/shauryananda/Portfolio-Projects/blob/main/Exploratory%20Data%20Analysis%20and%20Visualization/Content%20Analysis%20on%20a%20Video%20Streaming%20Platform.ipynb)
        
      - [Housing Market Analysis](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/Housing%20Market%20Analysis.ipynb)
 
