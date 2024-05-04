@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
    - Excel
 
-        - [Hiring Process Analytics]
+        - [Hiring Process Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/Excel/Hiring%20Process%20Analytics.pdf)
 
 
 - [Education](https://github.com/shauryananda/Data-Analytics-Portfolio/blob/main/README.md#education)
@@ -236,7 +236,7 @@ In this project, my goal is to use advanced SQL skills to analyze the data and p
 
 **Introduction**:
 
-**Business Problem:** [Hiring Process Analytics]
+**Business Problem:** [Hiring Process Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/Excel/Hiring%20Process%20Analytics.pdf)
 
 You're a data analyst at a multinational company like Google. Your task is to analyze the company's hiring process data and draw meaningful insights from it. The hiring process is a crucial function of any company, and understanding trends such as the number of rejections, interviews, job types, and vacancies can provide valuable insights for the hiring department.
 
