@@ -286,4 +286,4 @@ Guru Gobind Singh Indraprastha University: Bachelor's degree, Information Techno
 
 LinkedIn: [Shaurya Nanda](https://www.linkedin.com/in/shaurya-nanda/)
 
-Email: shauryananda10@gmail.com
+Email: shauryananda3@gmail.com
